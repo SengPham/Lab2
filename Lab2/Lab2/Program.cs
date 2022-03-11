@@ -9,7 +9,7 @@ namespace Lab2
             bool f = false;
             while (f = true)
             {
-                Console.WriteLine("Hello Sang =)))");
+                Console.WriteLine("Hello Sang =))");
             }
         }
     }
