@@ -10,6 +10,7 @@ namespace Lab2
             while (f = true)
             {
                 Console.WriteLine("Hello Sang =))");
+		Console.WriteLine("Hello Hung");
             }
         }
     }
